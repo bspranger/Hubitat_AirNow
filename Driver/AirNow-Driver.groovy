@@ -2,7 +2,7 @@
  *  AirNow Virtual Sensor
  *
  *  GitHub Link
- *  
+ *  https://raw.githubusercontent.com/bspranger/Hubitat_AirNow/master/Driver/AirNow-Driver.groovy
  *
  *  Author: Brian Spranger
  *  Date: 01/05/2019
